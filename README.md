@@ -1,198 +1,72 @@
-<!-- ========================= -->
+<div align="center">
+  <img src="./vytetech-banner.jpg" alt="VyteTech — tecnologia e engenharia de software" width="100%" />
 
-<!-- BANNER (SUBSTITUA PELA SUA IMAGEM) -->
+  # VyteTech
 
-<!-- ========================= -->
+  **Software Engineering · AI & Automation · Digital Products**
 
-<p align="center">
-  <img src="vytetech-banner.jpg" alt="VyteTech Banner" width="300" />
-</p>
+  **Tecnologia sob medida para transformar operações e construir produtos digitais.**
 
-<h1 align="center">VyteTech</h1>
-
-<p align="center">
-  Engenharia digital estratégica para empresas que querem escalar com eficiência.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Operacional-22c55e" />
-  <img src="https://img.shields.io/badge/Foco-Soluções%20Sob%20Medida-3b82f6" />
-  <img src="https://img.shields.io/badge/Arquitetura-Escalável-06b6d4" />
-  <img src="https://img.shields.io/badge/Modelo-B2B-6366f1" />
-</p>
+  [Website](https://vytetech.com) · [Portfólio](docs/PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/company/vytetech/) · [Contato](mailto:contato@vytetech.com)
+</div>
 
 ---
 
-## 🌐 Sobre a VyteTech
+## Quem somos | About us
 
-A **VyteTech** é uma empresa de engenharia de software especializada na criação de soluções digitais estratégicas para empresas que precisam estruturar operações, automatizar processos e escalar com consistência.
+A **VyteTech** é uma software house brasileira especializada em **sites, sistemas web, APIs, integrações, automações e produtos digitais**. Combinamos engenharia de software, visão de negócio e experiência do usuário para criar soluções adequadas ao contexto de cada empresa.
 
-Não desenvolvemos apenas software.
-Projetamos **infraestruturas digitais que suportam crescimento real**.
+**EN:** We are a Brazilian software engineering company building custom web applications, business systems, APIs, integrations and intelligent automation. Our focus is to turn business requirements into reliable digital products.
 
----
+## O que construímos
 
-## 🎯 Missão
+| Especialidade | Como ajudamos |
+| --- | --- |
+| **Software sob medida** | Sistemas operacionais, plataformas web e ferramentas internas. |
+| **Produtos SaaS** | Descoberta, arquitetura, MVP e evolução de produtos digitais. |
+| **APIs e integrações** | Conectividade entre aplicações, serviços e processos. |
+| **IA e automações** | Fluxos inteligentes, automação de tarefas e integrações orientadas a processos. |
+| **Web e experiência digital** | Sites institucionais, experiências responsivas e interfaces administrativas. |
+| **Arquitetura e evolução** | Qualidade, documentação, entrega contínua e manutenção. |
 
-Transformar tecnologia em vantagem competitiva mensurável.
+## Projetos selecionados
 
----
+| Projeto | Solução | Acessar |
+| --- | --- | --- |
+| **Atelier Daniel Detomi** | Portfólio artístico, catálogo de obras e CMS multilíngue | [Ver projeto](https://github.com/vytetech/client-arte-e-natureza) |
+| **Leitura da Borra de Café** | Experiência multilíngue, painel editorial e agendamentos | [Ver projeto](https://github.com/vytetech/client-leitura-da-borra-de-cafe) |
+| **Vila Santa Rosa** | Plataforma de hospitalidade, reservas e administração | [Ver projeto](https://github.com/vytetech/client-vila-santa-rosa) |
 
-## 🔭 Visão
+**[Explorar portfólio técnico e estudos de caso →](docs/PORTFOLIO.md)**
 
-Ser referência em estruturação digital empresarial, entregando sistemas que aumentam eficiência operacional e potencializam crescimento sustentável.
+## Tecnologia e engenharia
 
----
+Nossas escolhas variam conforme os requisitos de cada projeto. Tecnologias presentes em projetos da empresa incluem:
 
-## 🧩 O que construímos
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS, Next.js.
+- **Backend e integração:** Node.js, Hono, tRPC, APIs REST.
+- **Dados:** PostgreSQL, MySQL, Drizzle ORM e Supabase.
+- **Infraestrutura:** Vercel, Render, Railway, GitHub Actions e pipelines de entrega.
+- **Práticas:** documentação técnica, revisão de código, validações automatizadas e segurança por projeto.
 
-* Sistemas empresariais sob medida
-* Plataformas web escaláveis
-* APIs e integrações complexas
-* Automação de processos operacionais
-* Estruturação digital organizacional
-* Arquitetura de software corporativa
-* Modernização de sistemas legados
+Conheça nossos **[padrões de engenharia e colaboração](docs/ENGINEERING.md)**. A aplicação de cada prática depende do estágio e das necessidades do projeto.
 
----
+## Nosso processo
 
-## 🏗 Nossa metodologia
+**01. Descoberta** → **02. Arquitetura** → **03. Desenvolvimento** → **04. Validação e implantação** → **05. Evolução contínua**
 
-### 1️⃣ Diagnóstico estrutural
+Buscamos evitar complexidade desnecessária, tornar decisões técnicas rastreáveis e manter a solução sustentável após a entrega.
 
-Mapeamento de processos, gargalos e oportunidades tecnológicas.
+## Produtos próprios
 
-### 2️⃣ Arquitetura da solução
+Também desenvolvemos iniciativas internas e produtos digitais, como **TRILHA.X**, o **CRM VyteTech** e serviços da plataforma VyteTech. O código-fonte dessas iniciativas permanece privado quando aplicável.
 
-Definição de modelo técnico, escalabilidade e integrações.
+## Vamos construir algo?
 
-### 3️⃣ Desenvolvimento orientado a valor
+**[Conheça a VyteTech](https://vytetech.com)** · **[Envie sua demanda](mailto:contato@vytetech.com)** · **[Conecte-se no LinkedIn](https://www.linkedin.com/company/vytetech/)**
 
-Construção modular com foco em impacto operacional.
-
-### 4️⃣ Implantação e estabilização
-
-Deploy, monitoramento e validação em ambiente real.
-
-### 5️⃣ Evolução contínua
-
-Otimização baseada em dados e crescimento do negócio.
-
----
-
-## ⚙ Stack Tecnológica
-
-### Backend — Engenharia robusta e escalável
-
-* Java (ecosistema moderno)
-* Spring Boot
-* Spring Cloud (arquitetura distribuída)
-* APIs REST e arquitetura orientada a serviços
-* Microsserviços
-* Node.js (serviços leves e integrações)
-* Arquitetura orientada a domínio (DDD)
-
-### Frontend — Interfaces modernas e performáticas
-
-* React
-* Next.js
-* TypeScript
-* SSR e SSG
-* Design responsivo e componentização escalável
-
-### Banco de Dados — Persistência e modelagem avançada
-* Oracle
-* PostgreSQL
-* MongoDB
-* Modelagem relacional e NoSQL
-* Otimização de queries e performance
-
-### Infraestrutura e DevOps — Ambientes resilientes
-
-* Containers (Docker)
-* Cloud deployment
-* Vercel
-* CI/CD pipelines
-* Monitoramento e observabilidade
-
-### Arquitetura de Software — Engenharia corporativa
-
-* Sistemas modulares e desacoplados
-* Escalabilidade horizontal
-* Alta disponibilidade
-* Resiliência e tolerância a falhas
-* Integrações empresariais
-* Event-driven architecture (quando necessário)
-
-### Qualidade e Engenharia
-
-* Testes automatizados
-* Testes de integração
-* Versionamento estruturado
-* Boas práticas de engenharia de software
-
+São Paulo, Brasil · Português / English
 
 ---
 
-## 📂 Projetos e repositórios
-
-Aqui você encontrará:
-
-* Estruturas base de sistemas
-* Arquiteturas de referência
-* Templates técnicos
-* Estudos de engenharia
-* Ferramentas internas open source
-* Exemplos de integrações complexas
-
----
-
-## 📈 Filosofia tecnológica
-
-Tecnologia não é custo.
-Tecnologia mal aplicada é custo.
-
-Tecnologia estratégica é alavanca de crescimento.
-
----
-
-## 🤝 Colaboração
-
-Interessado em colaborar, integrar ou desenvolver soluções em conjunto?
-
-Entre em contato.
-
----
-
-## 🌐 Presença digital
-
-Site: www.vytetech.com
-LinkedIn: www.linkedin.com/company/vytetech
-Contato comercial: contato@vytetech.com
-
----
-
-## 👨‍💻 Liderança
-
-Fundação e direção técnica focadas em engenharia de software aplicada a crescimento empresarial.
-
----
-
-## 🧠 Posicionamento
-
-Empresas que dominam sua estrutura digital dominam sua escala.
-
-A VyteTech projeta essa estrutura.
-
----
-
-## 📄 Licenciamento
-
-Este perfil e seus repositórios podem conter projetos proprietários e open source.
-Verifique a licença específica de cada repositório.
-
----
-
-<p align="center">
-  <strong>VyteTech — Digital Engineering for Scalable Business</strong>
-</p>
+<sub>© 2026 VyteTech Solution LTDA. Repositórios podem conter software proprietário. A publicação de código não concede, por si só, permissão de uso, reprodução ou distribuição; consulte os termos e as licenças aplicáveis a cada projeto.</sub>
