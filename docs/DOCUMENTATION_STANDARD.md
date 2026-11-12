@@ -1,6 +1,6 @@
 # Governança documental corporativa VyteTech
 
-**Versão 0.1 | 11/11/2026 | Status: proposta | Classificação: publico**
+**Versão 1.0 | Aprovado pela direção em 11/11/2026 | Classificação: pública**
 
 Política corporativa aplicável a projetos próprios e projetos de clientes. Não é certificação nem declaração de conformidade.
 
@@ -57,7 +57,7 @@ flowchart LR
 - Aprovar política, designar responsáveis e incluir um catálogo de projetos e seus repositórios.
 - Separar documentação pública da confidencial por controles de acesso.
 
-## Pendências para aprovação
+## Pendências de implantação e verificação
 1. Designar proprietário e aprovador.
 2. Revisar os riscos e a classificação antes de publicar novas informações.
 3. Validar a cobertura documental com a equipe responsável.
