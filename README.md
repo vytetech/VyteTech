@@ -69,4 +69,12 @@ São Paulo, Brasil · Português / English
 
 ---
 
-<sub>© 2026 VyteTech Solution LTDA. Repositórios podem conter software proprietário. A publicação de código não concede, por si só, permissão de uso, reprodução ou distribuição; consulte os termos e as licenças aplicáveis a cada projeto.</sub>
+<sub>© 2026 VyteTech Solutions. Repositórios podem conter software proprietário. A publicação de código não concede, por si só, permissão de uso, reprodução ou distribuição; consulte os termos e as licenças aplicáveis a cada projeto.</sub>
+
+## Governança e documentação
+
+- [Padrão corporativo de documentação](docs/DOCUMENTATION_STANDARD.md)
+- [Padrões de engenharia](docs/ENGINEERING.md)
+- [Portfólio técnico](docs/PORTFOLIO.md)
+
+A política corporativa VYT-GOV-001 define responsabilidades documentais, classificação de informação, revisão e evidências. A aprovação da política não comprova automaticamente a conformidade de projetos individuais.
